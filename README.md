@@ -2,7 +2,7 @@
 
 Welcome to the **Real-Time Weather App**! This app allows you to check the current weather of any location globally. Simply enter the location, and get accurate details like temperature, wind speed, humidity, and visibility.
 
-You can check out the app live here: [Your Website Link](#)
+You can check out the app live here: https://quick-weather-forecast.netlify.app/
 
 ### Features 🚀
 - Get real-time weather updates for any city or location
